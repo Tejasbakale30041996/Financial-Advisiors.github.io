@@ -126,7 +126,7 @@
  }
 
  .header {
-     background: url(../../img/home-background.jpg) no-repeat;
+     background: url(../img/home-background.jpg) no-repeat;
      background-size: cover;
      /* background-position: center; */
      padding-top: 150px;
@@ -518,7 +518,7 @@
 
  .training-main {
 
-     background: url(../../img/training.jpg) no-repeat;
+     background: url(../img/training.jpg) no-repeat;
      background-size: cover;
      padding-top: 130px;
      padding-bottom: 130px;
@@ -675,7 +675,7 @@
 
  .number-main {
 
-     background: url(../../img/number-speak.jpg) no-repeat;
+     background: url(../img/number-speak.jpg) no-repeat;
      background-size: cover;
      background-attachment: fixed;
      position: relative;
@@ -884,7 +884,7 @@
 
  .service-header {
 
-     background: url(../../img/services-background.jpg) no-repeat;
+     background: url(../img/services-background.jpg) no-repeat;
      background-size: cover;
      background-position: center;
      margin-top: 30px;
@@ -1228,7 +1228,7 @@
 
  .industrie-header {
 
-     background: url(../../img/industries-background.jpg) no-repeat;
+     background: url(../img/industries-background.jpg) no-repeat;
      background-size: cover;
      background-position: center;
      margin-top: 30px;
@@ -1486,7 +1486,7 @@
 
  .about-header {
 
-     background: url(../../img/about-background.jpg) no-repeat;
+     background: url(../img/about-background.jpg) no-repeat;
      background-size: cover;
      background-position: center;
      margin-top: 30px;
@@ -1824,7 +1824,7 @@
 
  .contact-header {
 
-     background: url(../../img/training.jpg) no-repeat;
+     background: url(../img/training.jpg) no-repeat;
      background-size: cover;
      background-position: center;
      margin-top: 30px;
